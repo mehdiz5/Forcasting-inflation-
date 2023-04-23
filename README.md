@@ -1,1 +1,6 @@
-# Forcasting-inflation-
+# Forcasting-inflation
+In recent months, inflation has risen to levels not seen in a generation.
+tion. Central banks play a crucial role in ensuring economic and financial stability. They pursue a monetary policy aimed at achieving low and stable inflation. In the wake of the global financial crisis, central banks have expanded their toolkit to address risks to financial stability and to manage exchange rate volatility, e.g., in response to the COVID-19 pandemic, central banks have used a mix of conventional and unconventional tools to ease monetary policy, support liquidity in key financial markets, and maintain credit flows. Central banks need clear policy frameworks to achieve their objectives. Operational processes tailored to each country's circumstances enhance the effectiveness of central bank policies.
+
+
+All of this makes inflation forecasting of paramount importance for the conduct of monetary policy. Since the transmission of monetary policy is associated with significant lags, central banks aiming to ensure price stability must also make forward-looking decisions, which underlines the importance of inflation forecasting. Thus, expectation formation is central to the question of what determines and helps to forecast inflation, but also to policy-making.
